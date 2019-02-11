@@ -1,2 +1,6 @@
 # sha-mu-web-audio
-some web audio code from sha-mu (private project)
+some web audio code from sha-mu
+
+https://shamu.adenflorian.com/
+
+https://discord.gg/hjn9wrG
