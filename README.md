@@ -1,6 +1,6 @@
-# sha-mu-web-audio
-some web audio code from sha-mu
+# corgi-fm-web-audio
+some web audio code from corgi.fm
 
-https://shamu.adenflorian.com/
+https://corgi.fm
 
 https://discord.gg/hjn9wrG
